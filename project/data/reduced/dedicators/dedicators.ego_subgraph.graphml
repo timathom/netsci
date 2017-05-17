@@ -1,0 +1,847 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="dedicator" attr.type="long" for="node" id="d1" />
+  <key attr.name="label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="Q179109">
+      <data key="d0">Roland Barthes</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q169906" />
+    <node id="Q9364" />
+    <node id="Q207359" />
+    <node id="Q44272" />
+    <node id="Q159876">
+      <data key="d0">Julia Kristeva</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q130631" />
+    <node id="Q324944" />
+    <node id="Q2038" />
+    <node id="Q34670" />
+    <node id="Q313769" />
+    <node id="Q185375" />
+    <node id="Q128126" />
+    <node id="Q182847" />
+    <node id="Q216266" />
+    <node id="Q994115">
+      <data key="d0">Michel Deguy</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q3173978" />
+    <node id="Q3086037" />
+    <node id="Q274931" />
+    <node id="Q600687" />
+    <node id="Q154756" />
+    <node id="Q12807" />
+    <node id="Q266247" />
+    <node id="Q513448" />
+    <node id="Q184226" />
+    <node id="Q352465" />
+    <node id="Q1588737" />
+    <node id="Q933332" />
+    <node id="Q102106" />
+    <node id="Q315210" />
+    <node id="Q1308340" />
+    <node id="Q21701402" />
+    <node id="Q2520730" />
+    <node id="Q3557406" />
+    <node id="Q2394646" />
+    <node id="Q788718" />
+    <node id="Q353754" />
+    <node id="Q4937417" />
+    <node id="Q13411630" />
+    <node id="Q153034">
+      <data key="d0">Emmanuel Levinas</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q158092" />
+    <node id="Q631466">
+      <data key="d0">Benny Lévy</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q313509" />
+    <node id="Q354504" />
+    <node id="Q460824" />
+    <node id="Q60025" />
+    <node id="Q192066">
+      <data key="d0">Paul Ricœur</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q219368" />
+    <node id="Q3287593" />
+    <node id="Q19629750" />
+    <node id="Q274715" />
+    <node id="Q503017" />
+    <node id="Q7060" />
+    <node id="Q822727" />
+    <node id="Q3086932" />
+    <node id="Q3035238">
+      <data key="d0">Dominique Janicaud</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q462585">
+      <data key="d0">Edmond Jabès</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q362349" />
+    <node id="Q197106" />
+    <node id="Q2092681" />
+    <node id="Q311687" />
+    <node id="Q315251" />
+    <node id="Q3767253" />
+    <node id="Q193257" />
+    <node id="Q516614" />
+    <node id="Q58853" />
+    <node id="Q923743" />
+    <node id="Q11412512" />
+    <node id="Q728489" />
+    <node id="Q2011320" />
+    <node id="Q450663" />
+    <node id="Q7342059" />
+    <node id="Q1261985" />
+    <node id="Q5958413" />
+    <node id="Q5955226" />
+    <node id="Q184169">
+      <data key="d0">Louis Althusser</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q311005" />
+    <node id="Q220008" />
+    <node id="Q467470" />
+    <node id="Q764300" />
+    <node id="Q312279" />
+    <node id="Q156268">
+      <data key="d0">Pierre Bourdie</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q310341" />
+    <node id="Q601475">
+      <data key="d0">Maurice de Gandillac</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q540407" />
+    <node id="Q433741">
+      <data key="d0">Georges Canguilhem</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q184750" />
+    <node id="Q454802" />
+    <node id="Q236173" />
+    <node id="Q418681" />
+    <node id="Q3170058">
+      <data key="d0">Jean-Toussaint Desanti</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q520417" />
+    <node id="Q315349" />
+    <node id="Q450741" />
+    <node id="Q347362" />
+    <node id="Q2618384" />
+    <node id="Q1349785" />
+    <node id="Q76357">
+      <data key="d0">Jürgen Habermas</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q274705" />
+    <node id="Q61078" />
+    <node id="Q76356" />
+    <node id="Q7327013" />
+    <node id="Q3181313" />
+    <node id="Q158030" />
+    <node id="Q2548282" />
+    <node id="Q381720" />
+    <node id="Q71811" />
+    <node id="Q554993">
+      <data key="d0">Yosef Hayim Yerushalmi</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q12280659" />
+    <node id="Q983648">
+      <data key="d0">Kostas Axelos</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q945597" />
+    <node id="Q3265379" />
+    <node id="Q370389">
+      <data key="d0">Louis Marin</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q1685382">
+      <data key="d0">Jean Bollack</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q314471" />
+    <node id="Q185105" />
+    <node id="Q9049" />
+    <node id="Q1384603" />
+    <node id="Q355237" />
+    <node id="Q187099" />
+    <node id="Q18245478" />
+    <node id="Q272615" />
+    <node id="Q295012" />
+    <node id="Q538347" />
+    <node id="Q215258">
+      <data key="d0">Richard Rorty</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q44845" />
+    <node id="Q81244" />
+    <node id="Q221697" />
+    <node id="Q68147" />
+    <node id="Q478292" />
+    <node id="Q159648" />
+    <node id="Q138850" />
+    <node id="Q7197" />
+    <node id="Q234964">
+      <data key="d0">Hélène Cixous</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q28918" />
+    <node id="Q240851" />
+    <node id="Q370022" />
+    <node id="Q1685398" />
+    <node id="Q327601" />
+    <node id="Q37327" />
+    <node id="Q187166" />
+    <node id="Q214969" />
+    <node id="Q2707309" />
+    <node id="Q445939" />
+    <node id="Q203674">
+      <data key="d0">Pierre Klossowski</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q3484538" />
+    <node id="Q982519" />
+    <node id="Q1333153">
+      <data key="d0">Philippe Lacoue-Labarthe</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q11633567" />
+    <node id="Q21698477" />
+    <node id="Q153905" />
+    <node id="Q3124002">
+      <data key="d0">Gérard Granel</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q3315948" />
+    <node id="Q452742" />
+    <node id="Q3106741" />
+    <node id="Q184622" />
+    <node id="Q515633" />
+    <node id="Q3623608" />
+    <node id="Q1388925" />
+    <node id="Q129228" />
+    <node id="Q562139" />
+    <node id="Q3165548" />
+    <node id="Q3166708" />
+    <node id="Q3086448" />
+    <node id="Q3172399" />
+    <node id="Q214642" />
+    <node id="Q553887" />
+    <node id="Q15918362" />
+    <node id="Q383751" />
+    <node id="Q938297" />
+    <node id="Q374654" />
+    <node id="Q448427">
+      <data key="d0">Sarah Kofman</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q658382" />
+    <node id="Q1807967" />
+    <node id="Q852886" />
+    <node id="Q909" />
+    <node id="Q472206">
+      <data key="d0">Jean-Pierre Vernant</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q1450977" />
+    <node id="Q432730">
+      <data key="d0">Daniel Bensaïd</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q4132725">
+      <data key="d0">J. Hillis Miller</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q345612" />
+    <node id="Q1824930" />
+    <node id="Q258462" />
+    <node id="Q1367032" />
+    <node id="Q7347279" />
+    <node id="Q3439174">
+      <data key="d0">Roger Laporte</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q2898397" />
+    <node id="Q644548" />
+    <node id="Q519188">
+      <data key="d0">André Green</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q451348" />
+    <node id="Q2028390">
+      <data key="d0">Haroldo de Campos</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q156193" />
+    <node id="Q193871" />
+    <node id="Q551749" />
+    <node id="Q6964697">
+      <data key="d0">Naomi Schor</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q382714">
+      <data key="d0">Anders Olsson</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q912866" />
+    <node id="Q3496648">
+      <data key="d0">Stanislas Breton</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q1984757" />
+    <node id="Q712288">
+      <data key="d0">Paulin J. Hountondji</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q6766958">
+      <data key="d0">Mark C. Taylor</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q317164" />
+    <node id="Q123966" />
+    <node id="Q7357223" />
+    <node id="Q7323585">
+      <data key="d0">Richard A. Macksey</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q195008">
+      <data key="d0">Emir Rodríguez Monegal</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q3302212">
+      <data key="d0">Max Loreau</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q3340016">
+      <data key="d0">Nicolas Abraham</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q982044">
+      <data key="d0">Henry Bauchau</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q6913854">
+      <data key="d0">Morris Philipson</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q16194150">
+      <data key="d0">Gregg Lambert</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q3291694">
+      <data key="d0">Marie-Claire Ropars-Wuilleumier</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="Q2977737">
+      <data key="d0">Claude Lévesque</data>
+      <data key="d1">1</data>
+    </node>
+    <edge source="Q179109" target="Q169906" />
+    <edge source="Q179109" target="Q9364" />
+    <edge source="Q179109" target="Q207359" />
+    <edge source="Q179109" target="Q44272" />
+    <edge source="Q179109" target="Q159876" />
+    <edge source="Q179109" target="Q130631" />
+    <edge source="Q179109" target="Q324944" />
+    <edge source="Q179109" target="Q2038" />
+    <edge source="Q179109" target="Q34670" />
+    <edge source="Q179109" target="Q313769" />
+    <edge source="Q179109" target="Q185375" />
+    <edge source="Q179109" target="Q128126" />
+    <edge source="Q179109" target="Q182847" />
+    <edge source="Q179109" target="Q216266" />
+    <edge source="Q179109" target="Q994115" />
+    <edge source="Q179109" target="Q3173978" />
+    <edge source="Q179109" target="Q3086037" />
+    <edge source="Q179109" target="Q274931" />
+    <edge source="Q179109" target="Q600687" />
+    <edge source="Q179109" target="Q154756" />
+    <edge source="Q179109" target="Q12807" />
+    <edge source="Q179109" target="Q266247" />
+    <edge source="Q179109" target="Q513448" />
+    <edge source="Q179109" target="Q184226" />
+    <edge source="Q179109" target="Q352465" />
+    <edge source="Q179109" target="Q1588737" />
+    <edge source="Q179109" target="Q933332" />
+    <edge source="Q179109" target="Q102106" />
+    <edge source="Q179109" target="Q315210" />
+    <edge source="Q179109" target="Q1308340" />
+    <edge source="Q179109" target="Q21701402" />
+    <edge source="Q179109" target="Q2520730" />
+    <edge source="Q179109" target="Q3557406" />
+    <edge source="Q179109" target="Q2394646" />
+    <edge source="Q179109" target="Q788718" />
+    <edge source="Q179109" target="Q353754" />
+    <edge source="Q179109" target="Q4937417" />
+    <edge source="Q179109" target="Q13411630" />
+    <edge source="Q159876" target="Q324944" />
+    <edge source="Q159876" target="Q185375" />
+    <edge source="Q159876" target="Q169906" />
+    <edge source="Q159876" target="Q179109" />
+    <edge source="Q159876" target="Q130631" />
+    <edge source="Q159876" target="Q513448" />
+    <edge source="Q159876" target="Q60025" />
+    <edge source="Q159876" target="Q207359" />
+    <edge source="Q159876" target="Q7197" />
+    <edge source="Q159876" target="Q234964" />
+    <edge source="Q159876" target="Q28918" />
+    <edge source="Q159876" target="Q240851" />
+    <edge source="Q159876" target="Q370022" />
+    <edge source="Q159876" target="Q1685398" />
+    <edge source="Q159876" target="Q102106" />
+    <edge source="Q159876" target="Q44272" />
+    <edge source="Q159876" target="Q327601" />
+    <edge source="Q159876" target="Q12807" />
+    <edge source="Q159876" target="Q128126" />
+    <edge source="Q159876" target="Q37327" />
+    <edge source="Q159876" target="Q187166" />
+    <edge source="Q159876" target="Q266247" />
+    <edge source="Q159876" target="Q184169" />
+    <edge source="Q159876" target="Q295012" />
+    <edge source="Q159876" target="Q219368" />
+    <edge source="Q159876" target="Q1588737" />
+    <edge source="Q994115" target="Q9364" />
+    <edge source="Q994115" target="Q1388925" />
+    <edge source="Q994115" target="Q129228" />
+    <edge source="Q994115" target="Q562139" />
+    <edge source="Q994115" target="Q540407" />
+    <edge source="Q994115" target="Q130631" />
+    <edge source="Q153034" target="Q9364" />
+    <edge source="Q153034" target="Q130631" />
+    <edge source="Q153034" target="Q158092" />
+    <edge source="Q153034" target="Q315210" />
+    <edge source="Q153034" target="Q631466" />
+    <edge source="Q153034" target="Q313509" />
+    <edge source="Q153034" target="Q354504" />
+    <edge source="Q153034" target="Q169906" />
+    <edge source="Q153034" target="Q179109" />
+    <edge source="Q153034" target="Q44272" />
+    <edge source="Q153034" target="Q128126" />
+    <edge source="Q153034" target="Q460824" />
+    <edge source="Q153034" target="Q60025" />
+    <edge source="Q153034" target="Q192066" />
+    <edge source="Q153034" target="Q219368" />
+    <edge source="Q153034" target="Q3287593" />
+    <edge source="Q153034" target="Q19629750" />
+    <edge source="Q153034" target="Q994115" />
+    <edge source="Q153034" target="Q274715" />
+    <edge source="Q153034" target="Q503017" />
+    <edge source="Q153034" target="Q7060" />
+    <edge source="Q153034" target="Q822727" />
+    <edge source="Q153034" target="Q3086932" />
+    <edge source="Q153034" target="Q3035238" />
+    <edge source="Q153034" target="Q462585" />
+    <edge source="Q153034" target="Q362349" />
+    <edge source="Q153034" target="Q197106" />
+    <edge source="Q153034" target="Q2092681" />
+    <edge source="Q153034" target="Q311687" />
+    <edge source="Q153034" target="Q315251" />
+    <edge source="Q153034" target="Q3767253" />
+    <edge source="Q153034" target="Q193257" />
+    <edge source="Q153034" target="Q516614" />
+    <edge source="Q153034" target="Q58853" />
+    <edge source="Q153034" target="Q923743" />
+    <edge source="Q153034" target="Q11412512" />
+    <edge source="Q153034" target="Q728489" />
+    <edge source="Q153034" target="Q2011320" />
+    <edge source="Q153034" target="Q450663" />
+    <edge source="Q153034" target="Q7342059" />
+    <edge source="Q153034" target="Q1261985" />
+    <edge source="Q153034" target="Q5958413" />
+    <edge source="Q153034" target="Q5955226" />
+    <edge source="Q631466" target="Q9364" />
+    <edge source="Q631466" target="Q184169" />
+    <edge source="Q631466" target="Q153034" />
+    <edge source="Q631466" target="Q130631" />
+    <edge source="Q631466" target="Q313509" />
+    <edge source="Q631466" target="Q764300" />
+    <edge source="Q631466" target="Q7197" />
+    <edge source="Q631466" target="Q44272" />
+    <edge source="Q192066" target="Q76356" />
+    <edge source="Q192066" target="Q60025" />
+    <edge source="Q192066" target="Q153034" />
+    <edge source="Q192066" target="Q274931" />
+    <edge source="Q192066" target="Q130631" />
+    <edge source="Q192066" target="Q7327013" />
+    <edge source="Q192066" target="Q3181313" />
+    <edge source="Q192066" target="Q158030" />
+    <edge source="Q192066" target="Q2548282" />
+    <edge source="Q192066" target="Q381720" />
+    <edge source="Q192066" target="Q347362" />
+    <edge source="Q192066" target="Q169906" />
+    <edge source="Q192066" target="Q71811" />
+    <edge source="Q192066" target="Q554993" />
+    <edge source="Q192066" target="Q156268" />
+    <edge source="Q192066" target="Q540407" />
+    <edge source="Q192066" target="Q44272" />
+    <edge source="Q192066" target="Q193257" />
+    <edge source="Q192066" target="Q128126" />
+    <edge source="Q192066" target="Q9364" />
+    <edge source="Q192066" target="Q2011320" />
+    <edge source="Q192066" target="Q354504" />
+    <edge source="Q192066" target="Q12807" />
+    <edge source="Q192066" target="Q12280659" />
+    <edge source="Q192066" target="Q467470" />
+    <edge source="Q192066" target="Q76357" />
+    <edge source="Q192066" target="Q983648" />
+    <edge source="Q192066" target="Q179109" />
+    <edge source="Q192066" target="Q61078" />
+    <edge source="Q192066" target="Q184169" />
+    <edge source="Q192066" target="Q184226" />
+    <edge source="Q3035238" target="Q2548282" />
+    <edge source="Q3035238" target="Q153034" />
+    <edge source="Q3035238" target="Q3165548" />
+    <edge source="Q3035238" target="Q3166708" />
+    <edge source="Q3035238" target="Q192066" />
+    <edge source="Q3035238" target="Q460824" />
+    <edge source="Q3035238" target="Q994115" />
+    <edge source="Q3035238" target="Q3086448" />
+    <edge source="Q3035238" target="Q983648" />
+    <edge source="Q3035238" target="Q130631" />
+    <edge source="Q3035238" target="Q3124002" />
+    <edge source="Q3035238" target="Q503017" />
+    <edge source="Q3035238" target="Q327601" />
+    <edge source="Q3035238" target="Q1333153" />
+    <edge source="Q3035238" target="Q3172399" />
+    <edge source="Q3035238" target="Q923743" />
+    <edge source="Q462585" target="Q153034" />
+    <edge source="Q462585" target="Q153905" />
+    <edge source="Q462585" target="Q315210" />
+    <edge source="Q462585" target="Q130631" />
+    <edge source="Q462585" target="Q34670" />
+    <edge source="Q462585" target="Q214642" />
+    <edge source="Q462585" target="Q9364" />
+    <edge source="Q462585" target="Q128126" />
+    <edge source="Q462585" target="Q553887" />
+    <edge source="Q462585" target="Q15918362" />
+    <edge source="Q184169" target="Q44272" />
+    <edge source="Q184169" target="Q311005" />
+    <edge source="Q184169" target="Q220008" />
+    <edge source="Q184169" target="Q169906" />
+    <edge source="Q184169" target="Q219368" />
+    <edge source="Q184169" target="Q467470" />
+    <edge source="Q184169" target="Q128126" />
+    <edge source="Q184169" target="Q179109" />
+    <edge source="Q184169" target="Q184226" />
+    <edge source="Q184169" target="Q631466" />
+    <edge source="Q184169" target="Q764300" />
+    <edge source="Q184169" target="Q312279" />
+    <edge source="Q184169" target="Q156268" />
+    <edge source="Q184169" target="Q310341" />
+    <edge source="Q184169" target="Q601475" />
+    <edge source="Q184169" target="Q130631" />
+    <edge source="Q184169" target="Q540407" />
+    <edge source="Q184169" target="Q433741" />
+    <edge source="Q184169" target="Q153034" />
+    <edge source="Q184169" target="Q184750" />
+    <edge source="Q184169" target="Q454802" />
+    <edge source="Q184169" target="Q460824" />
+    <edge source="Q184169" target="Q313509" />
+    <edge source="Q184169" target="Q236173" />
+    <edge source="Q184169" target="Q418681" />
+    <edge source="Q184169" target="Q9364" />
+    <edge source="Q184169" target="Q3170058" />
+    <edge source="Q184169" target="Q354504" />
+    <edge source="Q184169" target="Q520417" />
+    <edge source="Q184169" target="Q315349" />
+    <edge source="Q184169" target="Q450741" />
+    <edge source="Q184169" target="Q347362" />
+    <edge source="Q184169" target="Q34670" />
+    <edge source="Q184169" target="Q2618384" />
+    <edge source="Q184169" target="Q192066" />
+    <edge source="Q184169" target="Q1349785" />
+    <edge source="Q184169" target="Q182847" />
+    <edge source="Q184169" target="Q76357" />
+    <edge source="Q184169" target="Q274705" />
+    <edge source="Q184169" target="Q61078" />
+    <edge source="Q156268" target="Q513448" />
+    <edge source="Q156268" target="Q433741" />
+    <edge source="Q156268" target="Q9364" />
+    <edge source="Q156268" target="Q184169" />
+    <edge source="Q156268" target="Q128126" />
+    <edge source="Q156268" target="Q44272" />
+    <edge source="Q156268" target="Q220008" />
+    <edge source="Q156268" target="Q945597" />
+    <edge source="Q156268" target="Q179109" />
+    <edge source="Q156268" target="Q169906" />
+    <edge source="Q156268" target="Q2038" />
+    <edge source="Q156268" target="Q130631" />
+    <edge source="Q156268" target="Q3265379" />
+    <edge source="Q156268" target="Q370389" />
+    <edge source="Q156268" target="Q1685382" />
+    <edge source="Q156268" target="Q314471" />
+    <edge source="Q156268" target="Q185105" />
+    <edge source="Q156268" target="Q184226" />
+    <edge source="Q156268" target="Q9049" />
+    <edge source="Q156268" target="Q1384603" />
+    <edge source="Q156268" target="Q467470" />
+    <edge source="Q156268" target="Q355237" />
+    <edge source="Q156268" target="Q187099" />
+    <edge source="Q156268" target="Q2520730" />
+    <edge source="Q156268" target="Q315349" />
+    <edge source="Q156268" target="Q18245478" />
+    <edge source="Q156268" target="Q272615" />
+    <edge source="Q156268" target="Q12280659" />
+    <edge source="Q601475" target="Q130631" />
+    <edge source="Q601475" target="Q184226" />
+    <edge source="Q601475" target="Q9364" />
+    <edge source="Q601475" target="Q61078" />
+    <edge source="Q601475" target="Q44272" />
+    <edge source="Q601475" target="Q193257" />
+    <edge source="Q601475" target="Q184169" />
+    <edge source="Q601475" target="Q7197" />
+    <edge source="Q601475" target="Q192066" />
+    <edge source="Q433741" target="Q169906" />
+    <edge source="Q433741" target="Q184169" />
+    <edge source="Q433741" target="Q44272" />
+    <edge source="Q433741" target="Q515633" />
+    <edge source="Q433741" target="Q9364" />
+    <edge source="Q433741" target="Q156268" />
+    <edge source="Q433741" target="Q184226" />
+    <edge source="Q433741" target="Q764300" />
+    <edge source="Q433741" target="Q130631" />
+    <edge source="Q433741" target="Q520417" />
+    <edge source="Q433741" target="Q3623608" />
+    <edge source="Q433741" target="Q274705" />
+    <edge source="Q3170058" target="Q515633" />
+    <edge source="Q3170058" target="Q9364" />
+    <edge source="Q3170058" target="Q383751" />
+    <edge source="Q3170058" target="Q938297" />
+    <edge source="Q3170058" target="Q169906" />
+    <edge source="Q3170058" target="Q184169" />
+    <edge source="Q3170058" target="Q130631" />
+    <edge source="Q3170058" target="Q44272" />
+    <edge source="Q3170058" target="Q3124002" />
+    <edge source="Q3170058" target="Q374654" />
+    <edge source="Q3170058" target="Q313509" />
+    <edge source="Q3170058" target="Q192066" />
+    <edge source="Q76357" target="Q272615" />
+    <edge source="Q76357" target="Q76356" />
+    <edge source="Q76357" target="Q314471" />
+    <edge source="Q76357" target="Q295012" />
+    <edge source="Q76357" target="Q58853" />
+    <edge source="Q76357" target="Q130631" />
+    <edge source="Q76357" target="Q538347" />
+    <edge source="Q76357" target="Q60025" />
+    <edge source="Q76357" target="Q215258" />
+    <edge source="Q76357" target="Q44845" />
+    <edge source="Q76357" target="Q81244" />
+    <edge source="Q76357" target="Q9049" />
+    <edge source="Q76357" target="Q44272" />
+    <edge source="Q76357" target="Q61078" />
+    <edge source="Q76357" target="Q221697" />
+    <edge source="Q76357" target="Q193257" />
+    <edge source="Q76357" target="Q68147" />
+    <edge source="Q76357" target="Q478292" />
+    <edge source="Q76357" target="Q220008" />
+    <edge source="Q76357" target="Q169906" />
+    <edge source="Q76357" target="Q159648" />
+    <edge source="Q76357" target="Q138850" />
+    <edge source="Q76357" target="Q12280659" />
+    <edge source="Q554993" target="Q138850" />
+    <edge source="Q983648" target="Q130631" />
+    <edge source="Q983648" target="Q169906" />
+    <edge source="Q983648" target="Q1349785" />
+    <edge source="Q370389" target="Q130631" />
+    <edge source="Q370389" target="Q909" />
+    <edge source="Q370389" target="Q179109" />
+    <edge source="Q370389" target="Q193257" />
+    <edge source="Q370389" target="Q553887" />
+    <edge source="Q370389" target="Q2394646" />
+    <edge source="Q370389" target="Q156268" />
+    <edge source="Q370389" target="Q184169" />
+    <edge source="Q370389" target="Q44272" />
+    <edge source="Q370389" target="Q182847" />
+    <edge source="Q1685382" target="Q644548" />
+    <edge source="Q1685382" target="Q156268" />
+    <edge source="Q1685382" target="Q130631" />
+    <edge source="Q1685382" target="Q153905" />
+    <edge source="Q215258" target="Q214969" />
+    <edge source="Q215258" target="Q76356" />
+    <edge source="Q215258" target="Q221697" />
+    <edge source="Q215258" target="Q159648" />
+    <edge source="Q215258" target="Q44272" />
+    <edge source="Q215258" target="Q130631" />
+    <edge source="Q215258" target="Q76357" />
+    <edge source="Q215258" target="Q538347" />
+    <edge source="Q215258" target="Q454802" />
+    <edge source="Q215258" target="Q2707309" />
+    <edge source="Q215258" target="Q193257" />
+    <edge source="Q215258" target="Q353754" />
+    <edge source="Q215258" target="Q1384603" />
+    <edge source="Q215258" target="Q445939" />
+    <edge source="Q215258" target="Q236173" />
+    <edge source="Q215258" target="Q923743" />
+    <edge source="Q215258" target="Q13411630" />
+    <edge source="Q215258" target="Q272615" />
+    <edge source="Q215258" target="Q933332" />
+    <edge source="Q215258" target="Q12807" />
+    <edge source="Q234964" target="Q130631" />
+    <edge source="Q234964" target="Q315210" />
+    <edge source="Q234964" target="Q169906" />
+    <edge source="Q234964" target="Q450663" />
+    <edge source="Q234964" target="Q28918" />
+    <edge source="Q234964" target="Q159876" />
+    <edge source="Q234964" target="Q37327" />
+    <edge source="Q234964" target="Q266247" />
+    <edge source="Q234964" target="Q3484538" />
+    <edge source="Q234964" target="Q452742" />
+    <edge source="Q234964" target="Q3315948" />
+    <edge source="Q234964" target="Q3106741" />
+    <edge source="Q234964" target="Q192066" />
+    <edge source="Q234964" target="Q44272" />
+    <edge source="Q234964" target="Q352465" />
+    <edge source="Q234964" target="Q184226" />
+    <edge source="Q234964" target="Q184622" />
+    <edge source="Q234964" target="Q179109" />
+    <edge source="Q203674" target="Q193257" />
+    <edge source="Q203674" target="Q130631" />
+    <edge source="Q203674" target="Q184226" />
+    <edge source="Q203674" target="Q44272" />
+    <edge source="Q203674" target="Q207359" />
+    <edge source="Q203674" target="Q354504" />
+    <edge source="Q203674" target="Q169906" />
+    <edge source="Q203674" target="Q61078" />
+    <edge source="Q203674" target="Q315210" />
+    <edge source="Q203674" target="Q34670" />
+    <edge source="Q203674" target="Q9364" />
+    <edge source="Q203674" target="Q352465" />
+    <edge source="Q203674" target="Q3484538" />
+    <edge source="Q203674" target="Q982519" />
+    <edge source="Q203674" target="Q1333153" />
+    <edge source="Q203674" target="Q503017" />
+    <edge source="Q203674" target="Q418681" />
+    <edge source="Q203674" target="Q11633567" />
+    <edge source="Q203674" target="Q21698477" />
+    <edge source="Q203674" target="Q994115" />
+    <edge source="Q203674" target="Q3557406" />
+    <edge source="Q1333153" target="Q130631" />
+    <edge source="Q1333153" target="Q169906" />
+    <edge source="Q1333153" target="Q153905" />
+    <edge source="Q1333153" target="Q61078" />
+    <edge source="Q1333153" target="Q503017" />
+    <edge source="Q1333153" target="Q1349785" />
+    <edge source="Q1333153" target="Q3124002" />
+    <edge source="Q1333153" target="Q266247" />
+    <edge source="Q1333153" target="Q76356" />
+    <edge source="Q1333153" target="Q3315948" />
+    <edge source="Q1333153" target="Q311005" />
+    <edge source="Q1333153" target="Q822727" />
+    <edge source="Q1333153" target="Q193257" />
+    <edge source="Q1333153" target="Q478292" />
+    <edge source="Q1333153" target="Q450663" />
+    <edge source="Q1333153" target="Q315210" />
+    <edge source="Q3124002" target="Q540407" />
+    <edge source="Q3124002" target="Q478292" />
+    <edge source="Q3124002" target="Q503017" />
+    <edge source="Q3124002" target="Q3170058" />
+    <edge source="Q3124002" target="Q130631" />
+    <edge source="Q3124002" target="Q1333153" />
+    <edge source="Q3124002" target="Q184169" />
+    <edge source="Q3124002" target="Q1349785" />
+    <edge source="Q3124002" target="Q822727" />
+    <edge source="Q448427" target="Q540407" />
+    <edge source="Q448427" target="Q184226" />
+    <edge source="Q448427" target="Q130631" />
+    <edge source="Q448427" target="Q503017" />
+    <edge source="Q448427" target="Q1333153" />
+    <edge source="Q448427" target="Q315210" />
+    <edge source="Q448427" target="Q658382" />
+    <edge source="Q448427" target="Q9364" />
+    <edge source="Q448427" target="Q1807967" />
+    <edge source="Q448427" target="Q852886" />
+    <edge source="Q472206" target="Q1450977" />
+    <edge source="Q472206" target="Q822727" />
+    <edge source="Q472206" target="Q185105" />
+    <edge source="Q472206" target="Q128126" />
+    <edge source="Q432730" target="Q61078" />
+    <edge source="Q432730" target="Q44272" />
+    <edge source="Q432730" target="Q130631" />
+    <edge source="Q432730" target="Q156268" />
+    <edge source="Q432730" target="Q311005" />
+    <edge source="Q432730" target="Q310341" />
+    <edge source="Q4132725" target="Q353754" />
+    <edge source="Q4132725" target="Q130631" />
+    <edge source="Q4132725" target="Q345612" />
+    <edge source="Q4132725" target="Q1824930" />
+    <edge source="Q4132725" target="Q258462" />
+    <edge source="Q4132725" target="Q1367032" />
+    <edge source="Q4132725" target="Q7347279" />
+    <edge source="Q3439174" target="Q2898397" />
+    <edge source="Q3439174" target="Q1333153" />
+    <edge source="Q3439174" target="Q315210" />
+    <edge source="Q3439174" target="Q207359" />
+    <edge source="Q3439174" target="Q130631" />
+    <edge source="Q3439174" target="Q994115" />
+    <edge source="Q519188" target="Q169906" />
+    <edge source="Q519188" target="Q179109" />
+    <edge source="Q519188" target="Q520417" />
+    <edge source="Q519188" target="Q130631" />
+    <edge source="Q519188" target="Q451348" />
+    <edge source="Q2028390" target="Q156193" />
+    <edge source="Q2028390" target="Q130631" />
+    <edge source="Q2028390" target="Q12807" />
+    <edge source="Q2028390" target="Q193871" />
+    <edge source="Q2028390" target="Q551749" />
+    <edge source="Q6964697" target="Q159876" />
+    <edge source="Q6964697" target="Q234964" />
+    <edge source="Q6964697" target="Q28918" />
+    <edge source="Q6964697" target="Q130631" />
+    <edge source="Q6964697" target="Q169906" />
+    <edge source="Q6964697" target="Q179109" />
+    <edge source="Q6964697" target="Q219368" />
+    <edge source="Q382714" target="Q912866" />
+    <edge source="Q382714" target="Q130631" />
+    <edge source="Q3496648" target="Q1984757" />
+    <edge source="Q3496648" target="Q192066" />
+    <edge source="Q3496648" target="Q184169" />
+    <edge source="Q3496648" target="Q553887" />
+    <edge source="Q3496648" target="Q130631" />
+    <edge source="Q712288" target="Q433741" />
+    <edge source="Q712288" target="Q192066" />
+    <edge source="Q712288" target="Q130631" />
+    <edge source="Q712288" target="Q184169" />
+    <edge source="Q6766958" target="Q130631" />
+    <edge source="Q6766958" target="Q317164" />
+    <edge source="Q6766958" target="Q123966" />
+    <edge source="Q6766958" target="Q7357223" />
+    <edge source="Q7323585" target="Q353754" />
+    <edge source="Q7323585" target="Q179109" />
+    <edge source="Q7323585" target="Q130631" />
+    <edge source="Q7323585" target="Q169906" />
+    <edge source="Q195008" target="Q909" />
+    <edge source="Q195008" target="Q9364" />
+    <edge source="Q195008" target="Q130631" />
+    <edge source="Q195008" target="Q2028390" />
+    <edge source="Q3302212" target="Q130631" />
+    <edge source="Q3302212" target="Q994115" />
+    <edge source="Q3302212" target="Q983648" />
+    <edge source="Q3340016" target="Q130631" />
+    <edge source="Q982044" target="Q130631" />
+    <edge source="Q982044" target="Q169906" />
+    <edge source="Q982044" target="Q34670" />
+    <edge source="Q6913854" target="Q130631" />
+    <edge source="Q6913854" target="Q192066" />
+    <edge source="Q6913854" target="Q128126" />
+    <edge source="Q16194150" target="Q193257" />
+    <edge source="Q16194150" target="Q184226" />
+    <edge source="Q16194150" target="Q130631" />
+    <edge source="Q3291694" target="Q130631" />
+    <edge source="Q3291694" target="Q315210" />
+    <edge source="Q3291694" target="Q184226" />
+    <edge source="Q2977737" target="Q130631" />
+    <edge source="Q2977737" target="Q315210" />
+  </graph>
+</graphml>
