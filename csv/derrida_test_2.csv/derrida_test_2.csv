@@ -1,5 +1,0 @@
-local_source,local_target,Source,Target,id,weight,wikiweight,source_name,target_name,type
-,,,http://www.wikidata.org/entity/Q44272,Q44272,,,,Michel Foucault,http://xmlns.com/foaf/0.1/Person
-,,,http://www.wikidata.org/entity/Q184169,Q184169,,,,Louis Althusser,http://xmlns.com/foaf/0.1/Person
-,,http://www.wikidata.org/entity/Q44272,,Q44272,,,Michel Foucault,,http://xmlns.com/foaf/0.1/Person
-http://datadock.io/timathom/netsci/id/resource/id/Q184169,http://datadock.io/timathom/netsci/id/resource/id/Q44272,http://www.wikidata.org/entity/Q184169,http://www.wikidata.org/entity/Q44272,0580a016-41eb-4b78-a8a5-eff0eebffabe,81,28,Louis Althusser,Michel Foucault,http://example.org/graph/Edge
