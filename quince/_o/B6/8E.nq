@@ -1,4 +1,1 @@
-﻿<http://datadock.io/timathom/netsci/id/resource/id/11447> <http://datadock.io/timathom/netsci/id/definition/target_name> "Carlo Formenti"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
-<http://datadock.io/timathom/netsci/id/resource/id/15366> <http://datadock.io/timathom/netsci/id/definition/id> "15366"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
-<http://datadock.io/timathom/netsci/id/resource/id/18484> <http://datadock.io/timathom/netsci/id/definition/target_name> "Carlo Formenti"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
-<http://datadock.io/timathom/netsci/id/resource/id/Q3659358> <http://datadock.io/timathom/netsci/id/definition/target_name> "Carlo Formenti"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+﻿
