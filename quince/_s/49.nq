@@ -1,3 +1,4 @@
 ﻿<http://datadock.io/timathom/netsci/> <http://purl.org/dc/terms/publisher> <http://datadock.io/timathom/netsci/id/dataset/publisher> <http://datadock.io/timathom/netsci/metadata>.
 <http://datadock.io/timathom/netsci/> <http://rdfs.org/ns/void#subset> <http://datadock.io/timathom/netsci/id/dataset/derrida_test_2.csv> <http://datadock.io/timathom/netsci/metadata>.
+<http://datadock.io/timathom/netsci/> <http://rdfs.org/ns/void#subset> <http://datadock.io/timathom/netsci/id/dataset/derrida_test_3.csv> <http://datadock.io/timathom/netsci/metadata>.
 <http://datadock.io/timathom/netsci/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/timathom/netsci/metadata>.
