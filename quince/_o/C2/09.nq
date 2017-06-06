@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/1f87baac-448a-44a6-87a4-16d29f704810> <http://datadock.io/timathom/netsci/id/definition/target_name> "Paul Johnson"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/f04970c4-4f8a-41c9-8bd0-5ae1d5fb18cc> <http://datadock.io/timathom/netsci/id/definition/target_name> "Paul Johnson"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/f368c9a7-8fe3-41ac-a452-ad57c72b38e9> <http://datadock.io/timathom/netsci/id/definition/id> "f368c9a7-8fe3-41ac-a452-ad57c72b38e9"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q45997> <http://datadock.io/timathom/netsci/id/definition/target_name> "Paul Johnson"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.

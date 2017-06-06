@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/08a6001a-cdc5-4407-b315-ddd8b9ae0729> <http://datadock.io/timathom/netsci/id/definition/target_name> "Dietrich Bonhoeffer"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/6bcec062-5883-457e-bdf2-2dcbe587520c> <http://datadock.io/timathom/netsci/id/definition/target_name> "Dietrich Bonhoeffer"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q76326> <http://datadock.io/timathom/netsci/id/definition/target_name> "Dietrich Bonhoeffer"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.

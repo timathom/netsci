@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/074b3766-4be6-40a0-8633-198a45824ba8> <http://datadock.io/timathom/netsci/id/definition/local_target> "Q6185534"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/4d47f175-399f-4225-9629-643f5a7cbcd8> <http://datadock.io/timathom/netsci/id/definition/local_target> "Q6185534"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q6185534> <http://datadock.io/timathom/netsci/id/definition/id> "Q6185534"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q6185534> <http://datadock.io/timathom/netsci/id/definition/local_target> "Q6185534"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
