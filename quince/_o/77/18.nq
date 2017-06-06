@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/f1df66d6-cdd7-4672-8d0f-d6a5f9e7a245> <http://datadock.io/timathom/netsci/id/definition/id> "f1df66d6-cdd7-4672-8d0f-d6a5f9e7a245"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q42747> <http://datadock.io/timathom/netsci/id/definition/id> "Q42747"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

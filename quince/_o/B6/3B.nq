@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/356afc54-a392-4a4a-927b-9c7b38bc206f> <http://datadock.io/timathom/netsci/id/definition/target_name> "Jack Smith"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/380cf294-fff4-4606-8581-c9e73d6e62c9> <http://datadock.io/timathom/netsci/id/definition/target_name> "Jack Smith"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q706886> <http://datadock.io/timathom/netsci/id/definition/target_name> "Jack Smith"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/0114d697-d9db-484f-919e-92e1865ef29b> <http://datadock.io/timathom/netsci/id/definition/target_name> "Ralph Nader"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/08347a8f-24b8-4e07-be3f-5a130f6221c7> <http://datadock.io/timathom/netsci/id/definition/target_name> "Ralph Nader"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q1361997> <http://datadock.io/timathom/netsci/id/definition/id> "Q1361997"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q193156> <http://datadock.io/timathom/netsci/id/definition/target_name> "Ralph Nader"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

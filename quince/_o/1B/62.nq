@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/17cbe8cb-b0e6-41e4-86d9-02aa4cd0ad29> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv#local_target> <http://datadock.io/timathom/netsci/id/resource/id/Q1669526> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/a6544923-4d46-469d-8513-334bf99e9efc> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv#local_target> <http://datadock.io/timathom/netsci/id/resource/id/Q1669526> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Q65126> <http://datadock.io/timathom/netsci/id/definition/id> "Q65126"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
