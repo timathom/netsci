@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/dataset/derrida_test_2.csv> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/timathom/netsci/csv/derrida_test_2.csv/derrida_test_2.csv> <http://datadock.io/timathom/netsci/id/dataset/derrida_test_2.csv/metadata>.
+<http://datadock.io/timathom/netsci/id/resource/id/0580a016-41eb-4b78-a8a5-eff0eebffabe> <http://datadock.io/timathom/netsci/id/definition/id> "0580a016-41eb-4b78-a8a5-eff0eebffabe"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_test_2.csv>.
