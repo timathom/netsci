@@ -1,3 +1,1 @@
-﻿<http://datadock.io/timathom/netsci/id/resource/id/11751> <http://datadock.io/timathom/netsci/id/definition/id> "11751"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
-<http://datadock.io/timathom/netsci/id/resource/id/14626> <http://datadock.io/timathom/netsci/id/definition/target_name> "Ralph Nader"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
-<http://datadock.io/timathom/netsci/id/resource/id/3087> <http://datadock.io/timathom/netsci/id/definition/target_name> "Ralph Nader"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+﻿
