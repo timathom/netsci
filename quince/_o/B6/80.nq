@@ -1,1 +1,4 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/14215> <http://datadock.io/timathom/netsci/id/definition/id> "14215"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/14912> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv#local_target> <http://datadock.io/timathom/netsci/id/resource/person/Q867852> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/2667> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv#local_target> <http://datadock.io/timathom/netsci/id/resource/person/Q867852> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/3277> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv#local_target> <http://datadock.io/timathom/netsci/id/resource/person/Q867852> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.

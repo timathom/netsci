@@ -1,0 +1,3 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/18018> <http://datadock.io/timathom/netsci/id/definition/target_name> "Leonella Prato Caruso"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/2536> <http://datadock.io/timathom/netsci/id/definition/target_name> "Leonella Prato Caruso"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/5035> <http://datadock.io/timathom/netsci/id/definition/id> "5035"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph_edges.csv>.
