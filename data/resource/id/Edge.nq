@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/Edge> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv#type> <http://www.w3.org/2000/01/rdf-schema#Class> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/Edge> <http://datadock.io/timathom/netsci/id/definition/id> "Edge"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
