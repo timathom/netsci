@@ -1,1 +1,1 @@
-﻿<http://datadock.io/timathom/netsci/id/resource/id/98cb7329-c8e9-483b-92d2-fd263fc89caf> <http://datadock.io/timathom/netsci/id/definition/weight> "61.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+﻿<http://datadock.io/timathom/netsci/id/resource/id/98cb7329-c8e9-483b-92d2-fd263fc89caf> <http://datadock.io/timathom/netsci/id/definition/edgeWeight> "61.0"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
