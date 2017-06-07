@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/393a4b90-41ff-41d2-a70e-521f34997cd5> <http://www.w3.org/2000/01/rdf-schema#label> "Camilla Adami > Avital Ronell"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/41a226b0-beeb-4cee-b23c-3756819a5375> <http://www.w3.org/2000/01/rdf-schema#label> "Jürgen Habermas > Märt Väljataga"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

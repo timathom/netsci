@@ -1,1 +1,1 @@
-﻿<http://datadock.io/timathom/netsci/id/resource/id/88a5a5dd-06f2-4260-9047-0d57950fcf4e> <http://datadock.io/timathom/netsci/id/definition/id> "88a5a5dd-06f2-4260-9047-0d57950fcf4e"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+﻿<http://datadock.io/timathom/netsci/id/resource/id/f130271b-c36a-42e7-b1a9-ffba74264322> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Dummett > A. W. Moore"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

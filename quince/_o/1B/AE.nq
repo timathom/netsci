@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/501f2b77-2308-4f4f-9043-d912eb36748f> <http://www.w3.org/2000/01/rdf-schema#label> "Jürgen Habermas > Hans-Hermann Hoppe"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/db955315-5e85-4a1e-bae7-1d651ade456b> <http://www.w3.org/2000/01/rdf-schema#label> "Michal Govrin > David Shapiro"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

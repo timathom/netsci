@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/03e3c205-0d4b-40cc-90f6-920b706c42b1> <http://www.w3.org/2000/01/rdf-schema#label> "Walter Benjamin > Mikhail Yampolsky"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/e4d2de5e-a240-41db-b2ea-7e8d14167da5> <http://www.w3.org/2000/01/rdf-schema#label> "Jean Genet > Jeanne Moreau"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

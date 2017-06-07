@@ -1,1 +1,2 @@
-﻿<http://datadock.io/timathom/netsci/id/resource/id/27b245e6-daa9-4d76-a633-261b4d3c43a6> <http://xmlns.com/foaf/0.1/name> "Ralph Nader"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+﻿<http://datadock.io/timathom/netsci/id/resource/id/09ecab44-76fb-445c-93fa-bb484d085337> <http://www.w3.org/2000/01/rdf-schema#label> "Marc-Alain Ouaknin > Alain Finkielkraut"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/27b245e6-daa9-4d76-a633-261b4d3c43a6> <http://xmlns.com/foaf/0.1/name> "Ralph Nader"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

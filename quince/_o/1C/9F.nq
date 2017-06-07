@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/13057d0b-5356-41c4-9c65-c5f38ec02726> <http://datadock.io/timathom/netsci/id/definition/id> "13057d0b-5356-41c4-9c65-c5f38ec02726"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/4bc0104b-ee88-4ab3-9d8a-5afca7894756> <http://www.w3.org/2000/01/rdf-schema#label> "Alexandre Kojève > Hiroki Azuma"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

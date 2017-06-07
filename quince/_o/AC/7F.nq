@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/4e53face-83d9-46b6-b77c-111faf229042> <http://datadock.io/timathom/netsci/id/definition/id> "4e53face-83d9-46b6-b77c-111faf229042"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/cdd2abb9-1f2d-495d-a44c-378b06dbb6d3> <http://www.w3.org/2000/01/rdf-schema#label> "Mumia Abu-Jamal > Nelson Mandela"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

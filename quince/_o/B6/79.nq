@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/e31dc99a-e6dc-4c1a-a952-8132fa334dd2> <http://www.w3.org/2000/01/rdf-schema#label> "Valerio Adami > Carlos Fuentes"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/f8f533a1-0008-4b33-9006-81417e24327a> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Rorty > Simon Critchley"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

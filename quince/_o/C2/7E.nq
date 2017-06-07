@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/0e75d630-e3dc-443d-8d99-942e21a86e29> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv#wiki> <http://www.wikidata.org/entity/Q1347791> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/8606074a-b056-4aa4-8fc7-10544d386930> <http://www.w3.org/2000/01/rdf-schema#label> "Georges Bataille > Philippe Roger"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

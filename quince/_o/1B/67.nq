@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/076cbc2c-cf42-44f4-b928-f0bd1f4511c2> <http://datadock.io/timathom/netsci/id/definition/id> "076cbc2c-cf42-44f4-b928-f0bd1f4511c2"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/ce39cf52-6029-4d72-aefa-9d0bd585bed2> <http://www.w3.org/2000/01/rdf-schema#label> "Steven Spielberg > Matt Damon"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

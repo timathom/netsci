@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/6b9a01a8-c1cc-4698-9150-f64d6816de17> <http://datadock.io/timathom/netsci/id/definition/id> "6b9a01a8-c1cc-4698-9150-f64d6816de17"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/9de4301e-32b8-4caa-988f-ef69dafa7136> <http://www.w3.org/2000/01/rdf-schema#label> "Moishe Postone > Hannah Arendt"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

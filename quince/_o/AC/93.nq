@@ -1,1 +1,2 @@
-﻿<http://datadock.io/timathom/netsci/id/resource/id/b342a26d-f383-48b9-9ebe-1797e8da3284> <http://xmlns.com/foaf/0.1/name> "René Maheu"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+﻿<http://datadock.io/timathom/netsci/id/resource/id/22ff7b34-8511-45cd-8e7b-ac03bed8c3be> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Winquist > Félix Guattari"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/b342a26d-f383-48b9-9ebe-1797e8da3284> <http://xmlns.com/foaf/0.1/name> "René Maheu"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/190a948d-12c2-4852-b002-4bac6ce0e286> <http://datadock.io/timathom/netsci/id/definition/id> "190a948d-12c2-4852-b002-4bac6ce0e286"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/429b8167-e03f-4aae-ab92-f9cd275e5e10> <http://www.w3.org/2000/01/rdf-schema#label> "Guy Debord > Andrew Hussey"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

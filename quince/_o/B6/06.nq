@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/a932f5c0-c20e-4164-ba9e-59b57deec21e> <http://www.w3.org/2000/01/rdf-schema#label> "Willem Elias > Herbert Marcuse"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/c503dd35-f85b-4552-8b72-ddb86931ea94> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Beckett > Nathalie Sarraute"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

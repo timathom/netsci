@@ -1,1 +1,2 @@
-﻿<http://datadock.io/timathom/netsci/id/resource/id/328a624d-378e-42bf-a117-baf895dca36b> <http://xmlns.com/foaf/0.1/name> "Karin Gundersen"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+﻿<http://datadock.io/timathom/netsci/id/resource/id/21bf3316-869f-4faf-b9a5-a21e6682e7c1> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Beckett > Philip Glass"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/328a624d-378e-42bf-a117-baf895dca36b> <http://xmlns.com/foaf/0.1/name> "Karin Gundersen"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

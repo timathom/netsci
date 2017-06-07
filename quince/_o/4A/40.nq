@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/0eb6f174-e8fd-4a09-b93b-e44dc19ccae8> <http://xmlns.com/foaf/0.1/name> "Whoopi Goldberg"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/8bfdaa51-12ce-4355-b7cc-ab7082299136> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Camus > Tõnu Õnnepalu"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/a253a0fc-ffe6-4b9b-b468-53553c297c66> <http://datadock.io/timathom/netsci/id/definition/id> "a253a0fc-ffe6-4b9b-b468-53553c297c66"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/e574fe73-5440-429f-9695-dc5e6cefd56a> <http://www.w3.org/2000/01/rdf-schema#label> "Lionel Jospin > Ségolène Royal"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

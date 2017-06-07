@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/bc803cc3-6c0f-40d1-8acf-94a1c00b0f45> <http://datadock.io/timathom/netsci/id/definition/id> "bc803cc3-6c0f-40d1-8acf-94a1c00b0f45"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/c7207f13-b48f-47bb-aae8-b3b300b1698a> <http://www.w3.org/2000/01/rdf-schema#label> "Simon Hantaï > Jules Olitski"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/147baad2-3893-44d0-92e7-5cca66a98762> <http://www.w3.org/2000/01/rdf-schema#label> "Gadis Arivia > Jacques Derrida"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/b0a4b422-477d-4278-8846-d85d35da5c86> <http://www.w3.org/2000/01/rdf-schema#label> "Carlos Castrodeza > Paul Feyerabend"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

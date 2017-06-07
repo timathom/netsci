@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/timathom/netsci/id/resource/id/00d22986-548e-40b1-8073-caa1ba4a1ec9> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Beckett > Philippe Soupault"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/fa3526a8-ce2d-4959-8d24-723aa83b5ec9> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Alféri > Serge Quadruppani"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

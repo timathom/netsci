@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/a528aa6e-b002-45aa-ae52-ab136d1f2809> <http://www.w3.org/2000/01/rdf-schema#label> "Roman Jakobson > Q13030390"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/b7b77f84-60fa-4236-bf96-5ffa4680754a> <http://www.w3.org/2000/01/rdf-schema#label> "Bracha L. Ettinger > Judith Butler"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

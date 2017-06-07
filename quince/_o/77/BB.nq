@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/timathom/netsci/id/resource/id/1b9b1fe7-7aac-4947-b3f6-12abc291ad34> <http://datadock.io/timathom/netsci/id/definition/id> "1b9b1fe7-7aac-4947-b3f6-12abc291ad34"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/efb6b39e-df65-4033-949a-0faf7cb55182> <http://www.w3.org/2000/01/rdf-schema#label> "Françoise Dolto > Élisabeth Roudinesco"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

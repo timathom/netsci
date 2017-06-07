@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/e82e1456-8112-4009-b40b-409b749de54f> <http://www.w3.org/2000/01/rdf-schema#label> "Lionel Jospin > Tony Blair"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/fa02e618-1ea8-4e0c-a4cb-5b7223856819> <http://www.w3.org/2000/01/rdf-schema#label> "Michel Onfray > Pierre Bourdie"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.

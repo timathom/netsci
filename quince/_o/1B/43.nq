@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timathom/netsci/id/resource/id/346d3b3f-16fe-400d-a843-e52ea117070a> <http://www.w3.org/2000/01/rdf-schema#label> "Bernard-Henri Lévy > Mao Zedong"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
+<http://datadock.io/timathom/netsci/id/resource/id/c836d0f2-2614-4cfb-bf74-45a60822e746> <http://www.w3.org/2000/01/rdf-schema#label> "Kevin Hart > Jean-Luc Marion"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timathom/netsci/id/dataset/derrida_graph.csv>.
